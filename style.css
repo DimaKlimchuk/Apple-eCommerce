@@ -171,6 +171,15 @@ html {
   transform: rotateY(180deg);
 }
 
+/*Controls*/
+.controls {
+  position: absolute;
+  bottom: -15rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/*End of Controls*/
 /*End of Cube*/
 
 /*Banner*/
